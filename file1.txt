@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-Adding more code
-Adding more code
-=======
 Fix1
->>>>>>> aef30bb... Added fix1
+Adding more code
+Adding more code
+Fix1
+Added fix1
+master
