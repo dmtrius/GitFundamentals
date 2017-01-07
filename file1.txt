@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Adding more code
 Adding more code
+=======
+Fix1
+>>>>>>> aef30bb... Added fix1
